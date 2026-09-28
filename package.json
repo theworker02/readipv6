@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/readipv6",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Read list/ipv6 set operations for shell-friendly data wrangling.",
+  "bin": {
+    "readipv6": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/readipv6.git"
+  },
+  "homepage": "https://theworker02.github.io/readipv6/",
+  "keywords": [
+    "read",
+    "ipv6",
+    "list",
+    "cli",
+    "toolkit"
+  ]
+}
